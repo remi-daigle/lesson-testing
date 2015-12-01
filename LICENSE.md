@@ -22,7 +22,7 @@ license terms.
 Under the following terms:
 
 * **Attribution**---You must give appropriate credit (mentioning that
-  your work is derived from work that is Copyright © Software
+  your work is derived from work that is Copyright B) Software
   Carpentry and, where practical, linking to
   http://software-carpentry.org/), provide a [link to the
   license][cc-by-human], and indicate if changes were made. You may do
